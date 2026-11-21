@@ -1,4 +1,4 @@
 {
-  "extends": "@ux-ui/tsconfig-base/tsconfig.json",
+  "extends": "@nilmuse/tsconfig-base/tsconfig.json",
   "include": ["src", "tsdown.config.ts"]
 }
