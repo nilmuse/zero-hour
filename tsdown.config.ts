@@ -1,4 +1,4 @@
-import { defineCssLibrary } from '@ux-ui/tsdown-config';
+import { defineCssLibrary } from '@nilmuse/tsdown-config';
 
 export default defineCssLibrary({
   cssFileName: 'zero-hour.css',
